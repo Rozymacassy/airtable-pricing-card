@@ -9,9 +9,9 @@ body {
 }
 
 .container {
-    width: 40%;
-    height: 100vh;
-    margin: 10px auto;
+    width: 50%;
+    height: 100%;
+    margin: 0px auto;
     display: block;
     border-radius: 20px;
     background-color: #d0f0fd;
@@ -55,4 +55,6 @@ button {
 }
 ul{
     list-style-type: "✔    ";
+    margin-bottom: 0px;
+
 }
