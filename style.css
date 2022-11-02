@@ -53,3 +53,6 @@ button {
 .ext {
     border-bottom: dotted;
 }
+ul{
+    list-style-type: "✔    ";
+}
